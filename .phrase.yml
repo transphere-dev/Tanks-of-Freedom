@@ -5,8 +5,10 @@ phrase:
       - file: /translations/campaigns/campaign_zh_CN.csv
         params:
           file_format: csv
+          locale_id: zh-CN
   pull:
     targets:
       - file: /translations/campaigns/campaign_zh_CN.csv
         params:
           file_format: csv
+           locale_id: zh-CN
