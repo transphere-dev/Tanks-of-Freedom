@@ -1,4 +1,3 @@
-"","en","zh-CN","de","es","fr","ja","pl","ru"
 "ACTOR_BASE_COMMANDER","Base Commander","Base Commander","Base Commander","Comandante de Base","Base Commander","Base Commander","Dowódca obrony","Base Commander"
 "ACTOR_FREEDOM_FIGHTER","Freedom Fighter","Freedom Fighter","Freedom Fighter","Luchador por la Libertad","Freedom Fighter","Freedom Fighter","Bojownik","Freedom Fighter"
 "ACTOR_GUARD","Guard","Guard","Guard","Guardia","Guard","Guard","Strażnik","Guard"
@@ -186,3 +185,4 @@
 "MISSION_TITLE_PENINSULA","Peninsula","Peninsula","Peninsula","Península","Péninsule","半島","Półwysep","Полуостров"
 "MISSION_TITLE_RECAPTURE","Recapture","Recapture","Recapture","Reconquista","Reprise","奪還","Kontratak","Перехват"
 "MISSION_TITLE_RIOTS","Riots","Riots","Riots","Disturbios","Rebelles","暴動","Zamieszki","Перебранки"
+"key","en","zh-CN","de","es","fr","ja","pl","ru"

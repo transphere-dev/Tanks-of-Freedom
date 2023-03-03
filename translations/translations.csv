@@ -1,4 +1,3 @@
-"","en","zh-CN","de","es","fr","ja","pl","ru"
 "LABEL_ABANDON_MATCH","ABANDON MATCH","ABANDON MATCH","BRECHE SPIEL AB","ABANDONAR PARTIDA","ABANDONNER LE MATCH","対戦を放棄","PORZUĆ MECZ","НЕДОСТУПНЫЙ МАТЧ"
 "LABEL_ACTION_POINTS","ACTION POINTS","ACTION POINTS","AKTIONSPUNKTE","PUNTOS DE ACCIÓN","POINTS D'ACTION","アクションポイント","PUNKTY AKCJI","ОЧКОВ ДЕЙСТВИЯ"
 "LABEL_ACTION_SLOTS","ACTION SLOTS","ACTION SLOTS","ACTION SLOTS","RANURAS DE ACCIÓN","ACTION SLOTS","アクションスロット","SLOTY AKCJI","ДОСТУПНЫХ СЛОТОВ"
@@ -284,3 +283,4 @@
 "TIP_UPLOADING_WAIT","Uploading! Please wait.","Uploading! Please wait.","Lade hoch...! Bitte warten.","¡Subiendo! Por favor espera.","Envoi en cours ! Patientez.","アップロード中! しばらくお待ちください。","Wysyłanie! Proszę czekać.","Загрузка, подождите."
 "TIP_WELCOME_ONLINE","Welcome to ToF Online!","Welcome to ToF Online!","Willkommen zu  ToF Online!","¡Bienvenido/a a ToF Online!","Bienvenue sur ToF Online !","ToF オンラインにようこそ!","Witamy w ToF Online!","Добро пожаловать в ToF Online!"
 "TITLE_GAMEPAD_CONFIG","GAMEPAD CONFIGURATION","游戏手柄图示","GAMEPAD KONFIGURIEREN","CONFIGURACIÓN GAMEPAD","CONFIGURATION MANETTE","ゲームパッドの設定","STEROWANIE","КОНФИГУРАЦИЯ ГЕЙМПАДА"
+"key","en","zh-CN","de","es","fr","ja","pl","ru"
