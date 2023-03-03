@@ -2,7 +2,7 @@ phrase:
   project_id: 900dd03fb0c98c10d17b2f52d80ae874
   push:
     sources:
-      - file: /translations/campaigns/campaign_zh_CN.csv
+      - file: /translations/campaigns/campaign_<locale_name>.csv
         params:
           file_format: csv
           locale_id: zh-CN
