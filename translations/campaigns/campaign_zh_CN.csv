@@ -1,4 +1,4 @@
-key,zh-CN
+key_name,zh-CN,comment
 ACTOR_BASE_COMMANDER,Base Commander
 ACTOR_FREEDOM_FIGHTER,Freedom Fighter
 ACTOR_GUARD,Guard
@@ -109,14 +109,14 @@ MISSION_5_FLANK,"With the right flank secured, we were able to bring in some rei
 MISSION_5_OFFICER_INTRO_1,Government forces throughout the peninsula are busy fighting local militia.
 MISSION_5_OFFICER_INTRO_2,"With a cooridnated push, we can take control of this land before they can re-organize."
 MISSION_5_OFFICER_INTRO_3,"This base safeguards a strategic route connecting the peninsula with the rest of the country. Taking control of this facility will cut off all remaining army, forcing them to surrender."
-MISSION_6_APP_BASE,"Sir, this looks like an abandoned rebel encampment. It seems they had no way of moving all this equipment, so they just left it."
-MISSION_6_APP_TOWERS_1,There are two comm towers on the left flank.
+MISSION_6_APP_BASE,反坦克小组已经到达。
+MISSION_6_APP_TOWERS_1,左翼有两个通信塔。
 MISSION_6_APP_TOWERS_2,"There may be some AA emplacements in the area, but if we capture those towers, we will be able to guide in more air support safely."
 MISSION_6_APP_TOWERS_3,Anti-tank team has arrived.
 MISSION_6_INTRO_1,"Welcome, Sir. As you may already know, recent setbacks have put us in an unfavourable position. We have to start pushing back."
 MISSION_6_INTRO_2,"Our intel suggests, that this city is where it all started. Rebel activity appears to have lessened since the initial attack - they probably moved on."
 MISSION_6_INTRO_3,"Still, we should not underestimate the garrison stationed here. Liberating this city will be an important step in our campaign."
-MISSION_6_INTRO_4,"Sir, the base of operations is up and running."
+MISSION_6_INTRO_4,先生，行动基地已经启动并运行。
 MISSION_6_INTRO_5,Good.
 MISSION_6_INTRO_6,Air support reporting in.
 MISSION_6_INTRO_7,"We've got decent amount of ground units, though our air capabilities are limited for this engagement. Use these assets well."
