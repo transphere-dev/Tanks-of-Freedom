@@ -2,4 +2,4 @@ files:
   - source: /translations/campaigns/campaign_*en.csv
     translation: /translations/campaigns/campaign_%locale_with_underscore%.%file_extension%
     first_line_contains_header: 1
-    scheme: 'identifier,source_phrase,translation'
+    scheme: 'identifier,source_or_translation'
