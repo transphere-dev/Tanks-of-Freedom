@@ -2,11 +2,11 @@ phrase:
   project_id: 900dd03fb0c98c10d17b2f52d80ae874
   push:
     sources:
-      - file: /translations/campaigns/campaign_zh_CN.csv
+      - file: /translations/campaigns/campaign_en.csv
         params:
           file_format: csv
   pull:
     targets:
-      - file: /translations/campaigns/campaign_zh_CN.csv
+      - file: /translations/campaigns/campaign_fr.csv
         params:
           file_format: csv
